@@ -18,3 +18,8 @@ This python package helps to find out the programming language for the source co
 * Ruby
 * Scala
 * SQL
+
+## Steps to run the program
+* Clone the repository
+* Run main.py 
+
